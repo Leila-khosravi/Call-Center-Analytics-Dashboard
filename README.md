@@ -22,4 +22,3 @@ This Power BI dashboard provides operational insights into call center performan
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
